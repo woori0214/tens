@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           안녕하세요.전우리입니다.
+          열심히 하겠습니다. 화이팅
         </p>
         <a
           className="App-link"
